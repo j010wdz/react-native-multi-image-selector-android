@@ -87,7 +87,7 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
 }
 ```
 
-## 示例 打开分享微信朋友圈编辑窗口
+## 示例 打开图片选择窗口
 ```javascript
 var MultiImageSelectorAndroid = require('react-native-multi-image-selector-android');
 
