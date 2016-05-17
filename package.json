@@ -1,0 +1,25 @@
+{
+  "name": "react-native-multi-image-selector-android",
+  "version": "0.1.0",
+  "description": "本项目为React Native的Android原生模块，是 https://github.com/lovetuzitong/MultiImageSelector 项目的react-native封装模块，用于打开activity选择多张图片。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "image",
+    "selector",
+    "picture",
+    "android"
+  ],
+  "author": "jian <j010wdz@126.com>",
+  "license": "MIT",
+  "repository": "https://github.com/j010wdz/react-native-multi-image-selector-android",
+  "bugs": "https://github.com/j010wdz/react-native-multi-image-selector-android/issues",
+  "peerDependencies": {
+    "react-native": ">=0.13"
+  }
+}
